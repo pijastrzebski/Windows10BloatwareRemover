@@ -20,4 +20,6 @@ Get-AppxPackage *windowsstore* | Remove-AppxPackage
 Get-AppxPackage *bingsports* | Remove-AppxPackage
 Get-AppxPackage *soundrecorder* | Remove-AppxPackage
 Get-AppxPackage *bingweather* | Remove-AppxPackage
-Get-AppxPackage *xboxapp* | Remove-AppxPackage
+Get-AppxPackage *xbox* | Remove-AppxPackage
+Get-AppxPackage *acg* | Remove-AppxPackage
+Get-AppxPackage *dolbyaccess* | Remove-AppxPackage
